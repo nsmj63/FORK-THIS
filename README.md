@@ -1,5 +1,11 @@
 # FORK-THIS
 
-Nick Johnson
-
-Alex Coates
+- Nick Johnson
+- Shane Forde
+- Vikhil "5 Star Man" Parshotam
+- Andrew Barrett
+- Harry Tindale
+- Tom Samson
+- Beatriz Manzano
+- Jack Parry
+- Alex Coates
