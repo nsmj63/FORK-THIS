@@ -7,3 +7,4 @@ Andrew Barrett
 Harry Tindale
 Tom Samson
 Beatriz Manzano
+Jack Parry
