@@ -15,8 +15,8 @@
 - Dhruv Patel (hahaha ^^)
 - Jalal Saadat
 - Amir Abdur-Rahman
-- Keval Shah
-- Arman Khan
+- Keval Shah**
 - Ivor Biggun
 
 This will cause a Merge Conflict
+
