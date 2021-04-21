@@ -8,3 +8,4 @@
 - Tom Samson
 - Beatriz Manzano
 - Jack Parry
+- Alex Coates
